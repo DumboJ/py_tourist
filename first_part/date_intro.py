@@ -21,3 +21,7 @@ sum_r = 0
 for i in range(1,11):
     sum_r += i
 print(sum_r)
+
+while(sum_r<100):
+    sum_r+=7
+print(sum_r)
